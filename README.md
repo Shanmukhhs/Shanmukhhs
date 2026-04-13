@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Shanmukh 👋
 
-<!--
-**Shanmukhhs/Shanmukhhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Class 11 Student (step + CS)  
+🤖 Interested in Robotics and Programming  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am currently learning Python and Arduino by building small projects and improving my application and problem solving skills step by step by just having mobile with internet 😀
+
+---
+
+## 🛠️ Projects
+
+### 🎯 Number Guessing Game  
+A Python game where the user guesses a randomly generated number(between 1-20) in four turns.
+🔗 [Number-guessing-game](https://github.com/Shanmukhhs/Python_learning_journey/blob/main/Number-guesser-game.py)
+
+---
+
+### 🎮 Stone Paper Scissors Game  
+A Python game where the user plays against the computer,which has a score counter for both user and computer,has option to specify for how much score he/she wants to play.
+
+🔗 [Stone-paper-scissors-gamd](Stone-paper-scissors.py)
+
+---
+
+## 🧠 Skills
+- Python (basics, loops, logic,if else statements)
+- Arduino (beginner)
+- Problem solving
+  
+---
+
+## ✅ Current status
+
+-Learning Functions
+
+---
+
+## 🎯 Goal
+To build strong programming skills and work on robotics projects in the future.
+
+---
+
+⭐ This GitHub shows my learning journey.
