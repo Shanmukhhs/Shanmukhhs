@@ -25,8 +25,14 @@ A Python game where the user plays against the computer,which has a score counte
 
 ---
 
+### 🔑 Password generator
+A program where user can customize length of password,store recent passwords and decide whether to add special characters or not.
+🔗[Password-generator](password_generator.py)
+
+---
+
 ## 🧠 Skills
-- Python (basics, loops, logic,if else statements)
+- Python (basics, loops, logic,if else statements,loops,list)
 - Arduino (beginner)
 - Problem solving
   
@@ -34,7 +40,7 @@ A Python game where the user plays against the computer,which has a score counte
 
 ## ✅ Current status
 
--Learning Functions
+-Learning Dictionary
 
 ---
 
