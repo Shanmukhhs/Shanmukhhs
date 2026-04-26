@@ -27,7 +27,7 @@ A Python game where the user plays against the computer,which has a score counte
 
 ### 🔑 Password generator
 A program where user can customize length of password,store recent passwords and decide whether to add special characters or not.
-🔗[Password-generator](password_generator.py)
+🔗[Password-generator](https://github.com/Shanmukhhs/Python_learning_journey/blob/main/password_generator.py)
 
 ---
 
