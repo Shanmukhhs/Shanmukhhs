@@ -1,6 +1,6 @@
 # Hi, I'm Shanmukh 👋
 
-🎓 Class 11 Student (step + CS)  
+🎓 Class 11 Student (PCM+ CS)  
 🤖 Interested in Robotics and Programming  
 
 ---
