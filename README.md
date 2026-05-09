@@ -10,7 +10,7 @@ I am currently learning Python and Arduino by building small projects and improv
 
 ---
 
-## 🛠️ Projects
+## ⚒️ Python Projects
 
 ### 🎯 Number Guessing Game  
 A Python game where the user guesses a randomly generated number(between 1-20) in four turns.
@@ -21,7 +21,7 @@ A Python game where the user guesses a randomly generated number(between 1-20) i
 ### 🎮 Stone Paper Scissors Game  
 A Python game where the user plays against the computer,which has a score counter for both user and computer,has option to specify for how much score he/she wants to play.
 
-🔗 [Stone-paper-scissors-gamd](Stone-paper-scissors.py)
+🔗 [Stone-paper-scissors-gamd](https://github.com/Shanmukhhs/Python_learning_journey/blob/main/Stone-paper-scissors.py)
 
 ---
 
@@ -33,6 +33,17 @@ A program where user can customize length of password,store recent passwords and
 
 ### 🗨️ℹ️ Smart Text Processor
 A python command-line utility for processing and formatting clipboard text.
+🔗[Smart-Text-Processor](https://github.com/Shanmukhhs/Python_learning_journey/blob/main/Smart-Text-Processor.py)
+
+---
+
+## 🤖 Arduino Projects
+
+### 🚦 LED Binary Counter
+A project which represents 0-15 in binary number system using LED.
+🔗[Binary-Counter](https://github.com/Shanmukhhs/Arduino_projects/blob/main/Binary-Counter-SourceCode.ino)
+
+
 
 
 ---
