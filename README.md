@@ -16,20 +16,17 @@ I am currently learning Python and Arduino by building small projects and improv
 A Python game where the user guesses a randomly generated number(between 1-20) in four turns.
 🔗 [Number-guessing-game](https://github.com/Shanmukhhs/Python_learning_journey/blob/main/Number-guesser-game.py)
 
----
 
 ### 🎮 Stone Paper Scissors Game  
 A Python game where the user plays against the computer,which has a score counter for both user and computer,has option to specify for how much score he/she wants to play.
 
 🔗 [Stone-paper-scissors-gamd](https://github.com/Shanmukhhs/Python_learning_journey/blob/main/Stone-paper-scissors.py)
 
----
 
 ### 🔑 Password generator
 A program where user can customize length of password,store recent passwords and decide whether to add special characters or not.
 🔗[Password-generator](https://github.com/Shanmukhhs/Python_learning_journey/blob/main/password_generator.py)
 
----
 
 ### 🗨️ℹ️ Smart Text Processor
 A python command-line utility for processing and formatting clipboard text.
