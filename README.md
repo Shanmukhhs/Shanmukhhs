@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-I am currently learning Python and Arduino by building small projects and improving my application and problem solving skills step by step by just having mobile with internet 😀
+I am currently learning Python and Arduino by building small projects and improving my application and problem solving skills step by step.
 
 ---
 
@@ -31,8 +31,14 @@ A program where user can customize length of password,store recent passwords and
 
 ---
 
+### 🗨️ℹ️ Smart Text Processor
+A python command-line utility for processing and formatting clipboard text.
+
+
+---
+
 ## 🧠 Skills
-- Python (basics, loops, logic,if else statements,loops,list)
+- Python basics
 - Arduino (beginner)
 - Problem solving
   
@@ -40,7 +46,7 @@ A program where user can customize length of password,store recent passwords and
 
 ## ✅ Current status
 
--Learning Dictionary
+-Finished Python basics
 
 ---
 
