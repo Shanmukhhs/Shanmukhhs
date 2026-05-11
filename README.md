@@ -38,7 +38,9 @@ A python command-line utility for processing and formatting clipboard text.
 
 ### 🚦 LED Binary Counter
 A project which represents 0-15 in binary number system using LED.
-🔗[Binary-Counter](https://github.com/Shanmukhhs/Arduino_projects/blob/main/Binary-Counter-SourceCode.ino)
+🔗[Binary-Counter-SourceCode](https://github.com/Shanmukhhs/Arduino_projects/blob/main/Binary-Counter-SourceCode.ino)
+
+🔗[BinaryCounter_setup_demo](https://drive.google.com/drive/folders/1J2TBwmaEdpFCkLTF8RXExEe0SAZ8bX4r)
 
 
 
