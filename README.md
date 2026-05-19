@@ -32,6 +32,12 @@ A program where user can customize length of password,store recent passwords and
 A python command-line utility for processing and formatting clipboard text.
 🔗[Smart-Text-Processor](https://github.com/Shanmukhhs/Python_learning_journey/blob/main/Smart-Text-Processor.py)
 
+
+### 🔭 Regex Inspector CLI
+This project is a Python-based text analysis tool that extracts structured information from raw text. It identifies and categorizes important patterns such as email addresses, phone numbers, URLs, and dates using regular expressions.
+The tool reads text from the clipboard and provides a clean, formatted report of all detected patterns
+🔗[Regex-Inspector-CLI](https://github.com/Shanmukhhs/Python_learning_journey/blob/main/Regex-Inspector-CLI.py)
+
 ---
 
 ## 🤖 Arduino Projects
@@ -49,6 +55,7 @@ A project which represents 0-15 in binary number system using LED.
 
 ## 🧠 Skills
 - Python basics
+- Regex
 - Arduino (beginner)
 - Problem solving
   
@@ -56,7 +63,8 @@ A project which represents 0-15 in binary number system using LED.
 
 ## ✅ Current status
 
--Finished Python basics
+- Finished Regex chapter
+- Starting File Handling
 
 ---
 
